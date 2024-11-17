@@ -47,6 +47,8 @@ git clone https://github.com/UseInterstellar/Interstellar
 cd Interstellar
 ```
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FScandiumTitaniumVanadiumChromium%2FInterstellar)
+
 #### Ad-Free Deployment
 
 ```bash
