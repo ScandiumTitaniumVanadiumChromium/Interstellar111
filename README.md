@@ -94,7 +94,8 @@ git pull --force --allow-unrelated-histories # This may overwrite your local cha
 
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/UseInterstellar/Interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/UseInterstellar/Interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
-
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FScandiumTitaniumVanadiumChromium%2FInterstellar)
+[![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ScandiumTitaniumVanadiumChromium/Interstellar)
 ### Deployment Alternatives
 
 For more deployment options, join our [Discord Server](https://discord.gg/interstellar) for various ways to deploy Interstellar.
